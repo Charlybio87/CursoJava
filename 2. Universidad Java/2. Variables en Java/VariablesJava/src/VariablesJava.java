@@ -16,6 +16,15 @@ public class VariablesJava {
         System.out.println(miVariableEntera2);
         var miVariableCadena2 = "Nueva Cadena";
         System.out.println("miVariableCadena2 = " + miVariableCadena2); //soutv
-        
+
+        //Valores permitidos en el nombre de variables
+        var miVariable = 1;
+        var _miVariable = 2;
+        var $miVariable = 3;
+        var miVariable2 = "Yo soy tui Jefe";
+
+        //Lista de palabras clave de Java
+        //https://en.wikipedia.org/wiki/List_of_Java_keywords
+
     }
 }
