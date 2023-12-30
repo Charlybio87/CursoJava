@@ -21,7 +21,7 @@ public class VariablesJava {
         var miVariable = 1;
         var _miVariable = 2;
         var $miVariable = 3;
-        var miVariable2 = "Yo soy tui Jefe";
+        var miVariable2 = "Yo soy tu Jefe";
 
         //Lista de palabras clave de Java
         //https://en.wikipedia.org/wiki/List_of_Java_keywords
