@@ -17,6 +17,22 @@ public class OperadorIgualdad {
         var f = cadena.equals(cadena2);//comparamos contenidos de cadenas
         System.out.println("f = " + f);
 
+        //Operadores Relacionales
+        var g = a >= b;// mayor que > o el mayor o igual >=
+        System.out.println("g = " + g);
 
+        if (a % 2 == 0){
+            System.out.println("Es un numero par");
+        } else {
+            System.out.println("Es un numero impar");
+        }
+        var edad = 30;
+        var adulto = 18;
+        System.out.println(edad >= adulto);
+        if (edad >= adulto){
+            System.out.println("Es un adulto");
+        } else {
+            System.out.println("Es menor edad");
+        }
     }
 }
