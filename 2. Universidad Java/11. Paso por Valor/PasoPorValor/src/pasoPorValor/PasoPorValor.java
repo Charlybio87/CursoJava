@@ -7,6 +7,6 @@ public class PasoPorValor {
 
     }
     public static void cambioValor(int arg1){
-        System.out.println("arg1 = " + arg1);
+                System.out.println("arg1 = " + arg1);
     }
 }
