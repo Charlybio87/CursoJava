@@ -1,4 +1,4 @@
-package pasoPorReferencia;
+package pasoporreferencia;
 
 import clases.Persona;
 

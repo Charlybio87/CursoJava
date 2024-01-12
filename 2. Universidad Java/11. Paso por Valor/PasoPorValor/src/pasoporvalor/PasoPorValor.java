@@ -1,4 +1,4 @@
-package pasoPorValor;
+package pasoporvalor;
 
 public class PasoPorValor {
     public static void main(String[] args) {
